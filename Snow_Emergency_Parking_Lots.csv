@@ -1,0 +1,51 @@
+X,Y,ObjectId,Name,Address,Spaces,Fee,Comments,Phone,Neighborhood,Maxspaces,Hours,Longitude,Latitude
+-7918411.415,5213945.934,1,Municipal Lot #003,115 Harvard Ave,60,No Charge,,,,0,,-71.1323,42.35261
+-7920693.465,5213501.578,2,Municipal Lot #002,398 Market St,42,No Charge,,,,0,,-71.1528,42.34966
+-7917331.616,5215700.967,3,Harvard University/Soldiers Field Park Garage,111 Western Ave,0,No Charge,"Only Allston and Brighton residents can park at this garage during a snow emergency only. May need to show proof of residency. Parking spots are limited and on a first-come, first-served basis. If parked past the approved the time, may be ticketed/towed.",617-496-6400,,0,,-71.1226,42.36426
+-7921071.951,5203873.964,4,Municipal Lot #034,1891 Centre Street,18,No Charge,,,,0,,-71.1562,42.28571
+-7920838.18,5203887.506,5,Municipal Lot #010,39-41 Corey St,53,No Charge,,,,0,,-71.1541,42.2858
+-7910585.655,5214060.415,6,Lafayette Garage,1 Avenue De Lafayette,0,$10 for each 24-hour period,"Discounted parking is only for Chinatown, Downtown, and North End residents. You need to provide proof of your residency. You will be charged each time your vehicle exits and re-enters the garage.",617-357-1987,,0,,-71.062,42.35337
+-7908860.203,5211509.01,7,Municipal Lot #018,450 West Broadway,60,No Charge,,,,0,,-71.0465,42.33643
+-7907958.515,5211427.69,8,Municipal Lot #021,650-652 East Broadway,22,No Charge,,,,0,,-71.0384,42.33589
+-7907680.216,5212805.713,9,BPDA/EDIC Garage,12 Drydock Ave,0,$1 for each night,Discounted rate for residents of South Boston only. South Boston Resident Parking Permits are required. Snow Emergency parking is allowed on the fourth floor of the garage only.,617-482-2487,,0,,-71.0359,42.34504
+-7913402.038,5211611.415,10,Northeastern University/Renaissance Park Garage,835 Columbus Avenue,0,50% of the variable rate. The most you will pay is $19.00 for each 24-hour period.,"Discounted parking is for Roxbury, South End, and Fenway/Kenmore residents only. Need to have a visible resident parking permit sticker to receive the discount. Parking is based on a first-come basis and depends on the availability of space.",617-267-9851 X106,,0,,-71.0873,42.33711
+-7913223.927,5212108.393,11,Northeastern University/Gainsboro Garage,10 Gainsborough Street,0,50% of the variable rate. The most you will pay is $19.00 for each 24-hour period.,"Discounted parking is for Roxbury, South End, and Fenway/Kenmore residents only. Need to have a visible resident parking permit sticker to receive the discount. Parking is based on a first-come basis and depends on the availability of space.",617-262-9851 X106,,0,,-71.0857,42.34041
+-7913235.059,5213115.984,12,Auditorium Garage,50 Dalton St,0,$11.00 per 24 hours – Snow Emergency parking rate,"Back Bay, Beacon Hill, Chinatown and Beacon Street residents only. Proof of residence, utility bill or RPP sticker.
+",617-247-8006,,0,,-71.0858,42.3471
+-7909350.008,5217566.329,13,Shipyard Garage/Mass General Hospital,Building #199 13th St,0,FULL,"Charlestown residents only. Limited space so the garage enforces the 2 hour rule. Anyone who enters more than 2 hours before the Snow Emergency is in effect and/or departs more than 2 hours after the ban has lifted, will not receive the discount rate.",,,0,,-71.0509,42.37664
+-7911698.85,5204727.182,14,Municipal Lot #017,575-581 Washington St,42,No Charge,,,,0,,-71.072,42.29138
+-7910953.009,5208746.015,15,Municipal Lot #019,16 Hamlet St,100,No Charge,,,,0,,-71.0653,42.31808
+-7910429.808,5206385.684,16,Municipal Lot #020,191 Adams St,22,No Charge,,,,0,,-71.0606,42.3024
+-7911153.384,5208755.048,17,Municipal Lot #022,730-732 Dudley St,12,No Charge,,,,0,,-71.0671,42.31814
+-7911042.065,5208759.564,18,Municipal Lot #016,8-20 Belden St,32,No Charge,,,,0,,-71.0661,42.31817
+-7913001.288,5207410.73,19,Municipal Lot #023,20 Georgia St,40,No Charge,,,,0,,-71.0837,42.30921
+-7911142.252,5207044.952,20,Municipal Lot #015,254-258 Bowdoin St,18,No Charge,,,,0,,-71.067,42.30678
+-7911665.454,5204456.31,21,Municipal Lot #031,629 Washington St,24,No Charge,,,,0,,-71.0717,42.28958
+-7912110.732,5209717.112,22,Municipal Lot #027,25 Blue Hill Ave,18,No Charge,,,,0,,-71.0757,42.32453
+-7907824.931,5217228.789,23,Municipal Lot #004,40 Porter St,35,No Charge,,,,0,,-71.0372,42.3744
+-7907869.459,5217299.611,24,Municipal Lot #005,166-180 London St,35,No Charge,,,,0,,-71.0376,42.37487
+-7907880.591,5217406.599,25,Municipal Lot #026,36 Bennington St,26,No Charge,,,,0,,-71.0377,42.37558
+-7917609.915,5199282.651,26,Municipal Lot #011,1269 Rear Hyde Park Ave,8,No Charge,,,,0,,-71.1251,42.25519
+-7917431.803,5199485.693,27,Municipal Lot #012,37 Winthrop St,135,No Charge,,,,0,,-71.1235,42.25654
+-7914515.233,5208515.676,28,Municipal Lot #033,3042 Washington St,39,No Charge,,,,0,,-71.0973,42.31655
+-7916496.72,5207692.223,29,Municipal Lot #006,737 Centre St,103,No Charge,,,,0,,-71.1151,42.31108
+-7915628.428,5209373.829,30,Municipal Lot #007,350-352 Centre St,24,No Charge,,,,0,,-71.1073,42.32225
+-7914682.212,5208380.185,31,Municipal Lot #024,3087 Washington St,15,No Charge,,,,0,,-71.0988,42.31565
+-7916196.157,5208746.015,32,Municipal Lot #032,490-498 Centre St,33,No Charge,,,,0,,-71.1124,42.31808
+-7914003.163,5201319.282,33,Municipal Lot #013,451-467 River St,90,No Charge,,,,0,,-71.0927,42.26873
+-7914303.726,5201323.795,34,Municipal Lot #014,23 Fairway St,40,No Charge,,,,0,,-71.0954,42.26876
+-7918010.665,5204143.313,35,Municipal Lot #008,10 Tafthill Terr.,92,No Charge,,,,0,,-71.1287,42.2875
+-7913001.288,5210754.565,36,Municipal Lot #001,30 Ruggles St,72,No Charge,,,,0,,-71.0837,42.33142
+-7912934.496,5210423.29,37,Municipal Lot #028,44 Warren St / Ziegler St,25,No Charge,,,,0,,-71.0831,42.32922
+-7912166.392,5210019.753,38,Municipal Lot #030,353 Dudley St,28,No Charge,,,,0,,-71.0762,42.32654
+-7913390.906,5210712.402,39,Municipal Lot #025,14 Roxbury St,12,No Charge,,,,0,,-71.0872,42.33114
+-7912789.781,5212786.133,44,Greenhouse Parking Garage/Ultimate,150 Huntington Ave,0,$14 for each 24-hour period,Only Back Bay and South End residents can park at the facility. Entrance to the garage is on Cumberland Street. Snow Emergency Parking is limited to 15-20 spaces. Cars must be out within two hours of the ban being lifted or will be charged regular rates.,617-247-0588,,0,,-71.0818,42.34491
+-7912756.385,5213146.108,45,The Prudential Center Garage,800 Boylston St,0,$12 for each 24-hour period,"Discount only for Back Bay, Beacon Hill and South End. If parking ban ends before 6PM residents must move cars within two hours. If ban ends after 6PM residents have till 9AM the following morning to remove cars. Need to stop by level P2 to get discount",617-236-3060,,0,,-71.0815,42.3473
+-7911888.093,5213378.065,46,LAZ Parking/The Clarendon Parking Garage,400 Stuart St,0,$14 for each 24-hour period,"There are a limited amount of public spaces available. Discounted rates for Back Bay, Bay Village, and South End. Proof of residency required. Stop by garage office on first floor of facility to receive the snow emergency rate before leaving vehicle.",617-948-2060,,0,,-71.0737,42.34884
+-7912956.76,5212756.01,48,Christian Science Garage,235 Huntington Ave,0,$10 for each 24-hour period,"Due to construction, spaces are limited. Call ahead to confirm spaces are still available. Discounted rate for residents of the South End and Back Bay only. Proof of residency is required.",781-727-3330,,0,,-71.0833,42.34471
+-7911943.753,5213242.505,49,100 Clarendon Street Garage,100 Clarendon Street,0,$14 for each 24-hour period,"Stop by the garage office on the first floor of the facility to receive the snow emergency rate before leaving with your vehicle. You must show proof of your residency in the Back Bay, South End, or Bay Village.",617-275-0151,,0,,-71.0742,42.34794
+-7909494.724,5212549.671,50,Channel Center Garage,116 West First Street,0,$10 for each 24-hour period,Discounted parking for all City of Boston residents. Please bring as proof of residence a valid driverâ€™s license with a City of Boston address to the garage office. You have 24 hours after the City lifts the snow emergency to remove your vehicle.,617-269-1830,,0,,-71.0522,42.34334
+-7911899.225,5210876.537,52,Crosstown Center Garage,7 Melnea Cass Boulevard,0,$10 for each 24-hour period,"You must show proof of your Boston residency to the cashier. If you don't, you won't be eligible for the discount.",,,0,,-71.0738,42.33223
+-7911209.044,5213617.56,53,200 Stuart Street Garage,200 Stuart Street,0,$0 for duration of Snow Emergency for Bay Village residents only. $10/24 hour period for all other Boston residents,"Bay Village resident parking permit or proof of Boston residency is required. To receive the discounted rate, parking can begin two hours before the emergency goes into effect and leave no later than two hours after parking ban is lifted",,,0,,-71.0676,42.35043
+-7911253.572,5213707.937,54,Motor Mart Garage,201 Stuart Street,0,$10 for 24 hour period,Discounted parking for all Boston residents with a City Of Boston Resident Parking Permit or proof of Boston residency. Enter up to 2 hours before emergency goes into effect and exit within 2 hours of the ban being lifted.,,,0,,-71.068,42.35103
+-7908673.364,5213579.029,55,The Alyx Garage,59 East Service Rd,0,Snow Emergency rate: $10.00 per day-each new day starts at 5am,"No restrictions, rate available to all parkers. ",617-429-3497,,0,,-71.0448,42.35016
